@@ -1,4 +1,6 @@
 # Pharmacy-Management-System-
+Using Mysql and NetBeans IDE
+
 The purpose of "PHARMACY MANAGEMENT SYSTEM" is to automate the existing 
 manual system by the help of computerized equipments and full-fledged computer software, 
 fulfilling their requirements, so that their valuable data/information can be stored for a longer 
